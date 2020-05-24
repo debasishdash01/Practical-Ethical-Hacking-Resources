@@ -123,7 +123,7 @@ print(movies[0]) # returns first item
 print(movies[1:4])
 print(movies[1:])
 print(movies[:2])
-print(movies[-1]) 
+print(movies[-1]) # returns the last item
 
 print(len(movies))
 movies.append("JAWS")
